@@ -13,7 +13,7 @@
 - González Conejero, David
 - Guerrero Marín, Ángel
 - Librero Cansino, Juan José
-- Manzano Pineda, Cristian
+- Manzano Pineda, Cristian -> https://github.com/cmanzanop/HLC_DAW
 - Martín Romero, Javier
 - Moreno Vázquez, Juan María
 - Muñoz Cordero, Salvador
