@@ -12,7 +12,7 @@
 - González Cabezuelo, Juan
 - González Conejero, David
 - Guerrero Marín, Ángel
-- Librero Cansino, Juan José
+- [Librero Cansino, Juan José](https://github.com/juanjolibrero98/Proyecto_Final_De_Grado_2021)
 - Manzano Pineda, Cristian
 - Martín Romero, Javier
 - Moreno Vázquez, Juan María
