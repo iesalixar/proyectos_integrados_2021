@@ -16,7 +16,7 @@
 - Manzano Pineda, Cristian
 - Martín Romero, Javier
 - Moreno Vázquez, Juan María
-- Muñoz Cordero, Salvador
+- Muñoz Cordero, Salvador [Enlace al proyecto](https://github.com/smunozc/Proyecto_Final)
 - Muñoz Iglesias, Carlos
 - Ortiz Clemente, Estefanía
 - Palacios López, José Manuel
