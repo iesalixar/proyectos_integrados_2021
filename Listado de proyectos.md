@@ -3,7 +3,7 @@
 - Barrera Herrera, Abraham
 - Borrachero Mallofret, Claudia Nerea
 - Carande Cabeza, Francisco Javier
-- Cordero Gordillo, Jorge
+- Cordero Gordillo, Jorge -> https://github.com/jcorderog/Proyecto_DAW.git
 - Corona Carrillo, Marco Antonio
 - Del Real Navarro, Rocío
 - Escacena Macías, Pedro
