@@ -21,4 +21,4 @@
 - Palacios López, José Manuel
 - Puyana Paraíso, Carlos
 - Rodríguez Maestre, David
-- Romero Muñoz, Adrián
+- Romero Muñoz, Adrián https://github.com/adrianromeroo/plantilla_proyecto_integrado.git
