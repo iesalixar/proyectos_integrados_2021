@@ -10,7 +10,7 @@
 - García Montes, Antonio
 - Gómez Gómez, César
 - González Cabezuelo, Juan
-- González Conejero, David
+- González Conejero, David    https://github.com/david-alixar/Proyecto
 - Guerrero Marín, Ángel
 - Librero Cansino, Juan José
 - Manzano Pineda, Cristian
