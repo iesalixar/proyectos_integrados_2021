@@ -17,7 +17,7 @@
 - Moreno Vázquez, Juan María
 - Muñoz Cordero, Salvador
 - Muñoz Iglesias, Carlos
-- Ortiz Clemente, Estefanía
+- Ortiz Clemente, Estefanía - https://github.com/Esorcle/Proyecto_DAW
 - Palacios López, José Manuel
 - Puyana Paraíso, Carlos
 - Rodríguez Maestre, David
