@@ -14,7 +14,7 @@
 - Guerrero Marín, Ángel
 - Librero Cansino, Juan José
 - Manzano Pineda, Cristian
-- Moreno Vázquez, Juan María
+- Moreno Vázquez, Juan María [Juan Maria Moreno](https://github.com/lanbacb6/Proyecto_HLC)
 - Muñoz Cordero, Salvador
 - Muñoz Iglesias, Carlos
 - Ortiz Clemente, Estefanía
