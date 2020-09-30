@@ -12,7 +12,7 @@
 - González Cabezuelo, Juan (https://github.com/HunterExon/Proyecto_HLCE.git)
 - González Conejero, David
 - Guerrero Marín, Ángel
-- Librero Cansino, Juan José
+- [Librero Cansino, Juan José](https://github.com/juanjolibrero98/Proyecto_Final_De_Grado_2021)
 - Manzano Pineda, Cristian
 - Moreno Vázquez, Juan María
 - Muñoz Cordero, Salvador - [Enlace al proyecto](https://github.com/smunozc/Proyecto_Final)
