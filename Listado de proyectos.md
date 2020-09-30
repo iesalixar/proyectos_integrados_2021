@@ -15,7 +15,7 @@
 - Librero Cansino, Juan José
 - Manzano Pineda, Cristian
 - Moreno Vázquez, Juan María
-- Muñoz Cordero, Salvador
+- Muñoz Cordero, Salvador - [Enlace al proyecto](https://github.com/smunozc/Proyecto_Final)
 - Muñoz Iglesias, Carlos
 - Ortiz Clemente, Estefanía - https://github.com/Esorcle/Proyecto_DAW
 - Palacios López, José Manuel
