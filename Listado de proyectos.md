@@ -18,6 +18,7 @@
 - Muñoz Cordero, Salvador - [Enlace al proyecto](https://github.com/smunozc/Proyecto_Final)
 - Muñoz Iglesias, Carlos
 - Ortiz Clemente, Estefanía - https://github.com/Esorcle/Proyecto_DAW
+- Pulido Zuloaga, Mario - https://github.com/marpul-git/proyecto_hlc_2daw.git
 - Palacios López, José Manuel
 - Puyana Paraíso, Carlos
 - Rodríguez Maestre, David
