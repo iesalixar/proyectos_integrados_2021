@@ -9,7 +9,7 @@
 - Escacena Macías, Pedro
 - García Montes, Antonio
 - Gómez Gómez, César
-- González Cabezuelo, Juan
+- González Cabezuelo, Juan (https://github.com/HunterExon/Proyecto_HLCE.git)
 - González Conejero, David
 - Guerrero Marín, Ángel
 - Librero Cansino, Juan José
