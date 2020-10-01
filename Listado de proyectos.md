@@ -2,8 +2,8 @@
 
 - Barrera Herrera, Abraham https://github.com/abarrerah/ProyectoDAW2020-21
 - Borrachero Mallofret, Claudia Nerea
+- Cordero Gordillo, Jorge -> https://github.com/jcorderog/Proyecto_DAW.git
 - Carande Cabeza, Francisco Javier https://github.com/fjaviercarandec/ProyectoDAW2020-21
-- Cordero Gordillo, Jorge
 - Corona Carrillo, Marco Antonio
 - Del Real Navarro, Rocío
 - Escacena Macías, Pedro
