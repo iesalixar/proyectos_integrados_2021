@@ -21,5 +21,5 @@
 - Ortiz Clemente, Estefanía - https://github.com/Esorcle/Proyecto_DAW
 - Palacios López, José Manuel
 - Puyana Paraíso, Carlos
-- Rodríguez Maestre, David
+- Rodríguez Maestre, David https://github.com/davidrodriguezm/Proyecto
 - Romero Muñoz, Adrián -> https://github.com/adrianromeroo/Proyecto_DAW
