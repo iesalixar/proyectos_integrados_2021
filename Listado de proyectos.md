@@ -13,7 +13,8 @@
 - González Conejero, David
 - Guerrero Marín, Ángel
 - [Librero Cansino, Juan José](https://github.com/juanjolibrero98/Proyecto_Final_De_Grado_2021)
-- Manzano Pineda, Cristian
+- Manzano Pineda, Cristian -> https://github.com/cmanzanop/HLC_DAW
+- Martín Romero, Javier
 - Moreno Vázquez, Juan María
 - Muñoz Cordero, Salvador - [Enlace al proyecto](https://github.com/smunozc/Proyecto_Final)
 - Muñoz Iglesias, Carlos
