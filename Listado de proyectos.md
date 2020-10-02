@@ -22,5 +22,5 @@
 - Pulido Zuloaga, Mario - https://github.com/marpul-git/proyecto_hlc_2daw.git
 - Palacios López, José Manuel
 - Puyana Paraíso, Carlos
-- Rodríguez Maestre, David
+- Rodríguez Maestre, David https://github.com/davidrodriguezm/Proyecto
 - Romero Muñoz, Adrián -> https://github.com/adrianromeroo/Proyecto_DAW
