@@ -12,7 +12,7 @@
 - González Conejero, David (https://github.com/david-alixar/Proyecto)
 - [Librero Cansino, Juan José](https://github.com/juanjolibrero98/Proyecto_Final_De_Grado_2021)
 - Manzano Pineda, Cristian -> https://github.com/cmanzanop/HLC_DAW
-- Moreno Vázquez, Juan María
+- Moreno Vázquez, Juan María [Juan Maria Moreno](https://github.com/lanbacb6/Proyecto_HLC)
 - Muñoz Cordero, Salvador - [Enlace al proyecto](https://github.com/smunozc/Proyecto_Final)
 - Muñoz Iglesias, Carlos
 - Ortiz Clemente, Estefanía - https://github.com/Esorcle/Proyecto_DAW
