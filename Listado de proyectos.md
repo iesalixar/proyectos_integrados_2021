@@ -5,16 +5,13 @@
 - Cordero Gordillo, Jorge -> https://github.com/jcorderog/Proyecto_DAW.git
 - Carande Cabeza, Francisco Javier https://github.com/fjaviercarandec/ProyectoDAW2020-21
 - Corona Carrillo, Marco Antonio
-- Del Real Navarro, Rocío
 - Escacena Macías, Pedro
 - García Montes, Antonio	https://github.com/AntonioDAW02/Proyecto-Final.git
 - Gómez Gómez, César
 - González Cabezuelo, Juan (https://github.com/HunterExon/Proyecto_HLCE.git)
-- González Conejero, David
-- Guerrero Marín, Ángel
+- González Conejero, David (https://github.com/david-alixar/Proyecto)
 - [Librero Cansino, Juan José](https://github.com/juanjolibrero98/Proyecto_Final_De_Grado_2021)
 - Manzano Pineda, Cristian -> https://github.com/cmanzanop/HLC_DAW
-- Martín Romero, Javier
 - Moreno Vázquez, Juan María
 - Muñoz Cordero, Salvador - [Enlace al proyecto](https://github.com/smunozc/Proyecto_Final)
 - Muñoz Iglesias, Carlos
