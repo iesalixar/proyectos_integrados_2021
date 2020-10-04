@@ -20,7 +20,7 @@
 - Muñoz Iglesias, Carlos
 - Ortiz Clemente, Estefanía - https://github.com/Esorcle/Proyecto_DAW
 - Pulido Zuloaga, Mario - https://github.com/marpul-git/proyecto_hlc_2daw.git
-- Palacios López, José Manuel
+- Palacios López, José Manuel (https://github.com/josempal/Proyecto_JManuel_Palacios)
 - Puyana Paraíso, Carlos
 - Rodríguez Maestre, David https://github.com/davidrodriguezm/Proyecto
 - Romero Muñoz, Adrián -> https://github.com/adrianromeroo/Proyecto_DAW
