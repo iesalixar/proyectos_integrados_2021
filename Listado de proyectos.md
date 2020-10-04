@@ -4,7 +4,7 @@
 - Borrachero Mallofret, Claudia Nerea
 - Cordero Gordillo, Jorge -> https://github.com/jcorderog/Proyecto_DAW.git
 - Carande Cabeza, Francisco Javier https://github.com/fjaviercarandec/ProyectoDAW2020-21
-- Corona Carrillo, Marco Antonio
+- Corona Carrillo, Marco Antonio https://github.com/mantoniocoronac/proyecto_daw
 - Escacena Macías, Pedro
 - García Montes, Antonio	https://github.com/AntonioDAW02/Proyecto-Final.git
 - Gómez Gómez, César
