@@ -1,24 +1,23 @@
 # Relación de proyectos de cada uno de los alumnos (respetad el orden de lista)
 
-- Barrera Herrera, Abraham
+- Barrera Herrera, Abraham https://github.com/abarrerah/ProyectoDAW2020-21
 - Borrachero Mallofret, Claudia Nerea
-- Carande Cabeza, Francisco Javier
-- Cordero Gordillo, Jorge
+- Cordero Gordillo, Jorge -> https://github.com/jcorderog/Proyecto_DAW.git
+- Carande Cabeza, Francisco Javier https://github.com/fjaviercarandec/ProyectoDAW2020-21
 - Corona Carrillo, Marco Antonio
-- Del Real Navarro, Rocío
 - Escacena Macías, Pedro
-- García Montes, Antonio
+- García Montes, Antonio	https://github.com/AntonioDAW02/Proyecto-Final.git
 - Gómez Gómez, César
-- González Cabezuelo, Juan
-- González Conejero, David    https://github.com/david-alixar/Proyecto
-- Guerrero Marín, Ángel
-- Librero Cansino, Juan José
-- Manzano Pineda, Cristian
+- González Cabezuelo, Juan (https://github.com/HunterExon/Proyecto_HLCE.git)
+- González Conejero, David (https://github.com/david-alixar/Proyecto)
+- [Librero Cansino, Juan José](https://github.com/juanjolibrero98/Proyecto_Final_De_Grado_2021)
+- Manzano Pineda, Cristian -> https://github.com/cmanzanop/HLC_DAW
 - Moreno Vázquez, Juan María
-- Muñoz Cordero, Salvador
+- Muñoz Cordero, Salvador - [Enlace al proyecto](https://github.com/smunozc/Proyecto_Final)
 - Muñoz Iglesias, Carlos
-- Ortiz Clemente, Estefanía
-- Palacios López, José Manuel
+- Ortiz Clemente, Estefanía - https://github.com/Esorcle/Proyecto_DAW
+- Pulido Zuloaga, Mario - https://github.com/marpul-git/proyecto_hlc_2daw.git
+- Palacios López, José Manuel (https://github.com/josempal/Proyecto_JManuel_Palacios)
 - Puyana Paraíso, Carlos
-- Rodríguez Maestre, David
-- Romero Muñoz, Adrián
+- Rodríguez Maestre, David https://github.com/davidrodriguezm/Proyecto
+- Romero Muñoz, Adrián -> https://github.com/adrianromeroo/Proyecto_DAW
