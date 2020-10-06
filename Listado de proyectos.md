@@ -1,7 +1,7 @@
 # Relación de proyectos de cada uno de los alumnos (respetad el orden de lista)
 
 - Barrera Herrera, Abraham https://github.com/abarrerah/ProyectoDAW2020-21
-- Borrachero Mallofret, Claudia Nerea
+- Borrachero Mallofret, Claudia Nerea https://github.com/ClaudiaBorrachero/proyectos_integrados_2021
 - Cordero Gordillo, Jorge -> https://github.com/jcorderog/Proyecto_DAW.git
 - Carande Cabeza, Francisco Javier https://github.com/fjaviercarandec/ProyectoDAW2020-21
 - Corona Carrillo, Marco Antonio https://github.com/mantoniocoronac/proyecto_daw
