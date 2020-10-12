@@ -1,0 +1,14 @@
+Este proyecto busca alcanzar necesidades a la hora de su uso.
+Mantener siempre una vista de lo que se da y quienes están disponibles, si el producto se puede
+o no se puede obtener, todo ello cumpliendo una serie de necesidades escogidas por el equipo  para
+cumplir objetivos con los que el mismo puede trabajar.
+
+##Necesidades:
+- Trafico Potencial: Se deberán buscar los elementos que hacen que los usuarios se paren, con aquella "Necesidad" que los hace
+frenarse y buscar en todas partes. En nuestro caso, los materiales que el usuario busque y que haya en stock para su venta.
+- Lenguaje: El lenguaje utilizado será JavsCript (sujeto a cambios o a un consenso) pues es el lenguaje que se está proporcionando
+a los miembros de este grupo.
+- Bases de Datos: Hasta la fecha, se han establecido 3 tablas diferentes. Se gestionarán por medio de MySql Server por ubuntu
+mediante contenedores Docker.
+- Proveedor: Por determinar.
+
